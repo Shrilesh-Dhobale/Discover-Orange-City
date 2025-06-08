@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+#bg-img{
+    margin:0;
+    padding:0;
+    background-size: cover;
+    height:100%;
+    width:100%;
+    position: relative;
+}
+#up-img{
+    height:90%;
+    width: 90%;
+    position: absolute;
+    top:10%;
+    left:10%;
+}
